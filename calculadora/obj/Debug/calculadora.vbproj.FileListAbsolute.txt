@@ -1,0 +1,30 @@
+C:\Users\CARLOS\AppData\Local\Temporary Projects\calculadora\bin\Debug\calculadora.exe.config
+C:\Users\CARLOS\AppData\Local\Temporary Projects\calculadora\bin\Debug\calculadora.exe
+C:\Users\CARLOS\AppData\Local\Temporary Projects\calculadora\bin\Debug\calculadora.pdb
+C:\Users\CARLOS\AppData\Local\Temporary Projects\calculadora\bin\Debug\calculadora.xml
+C:\Users\CARLOS\AppData\Local\Temporary Projects\calculadora\obj\Debug\calculadora.Form1.resources
+C:\Users\CARLOS\AppData\Local\Temporary Projects\calculadora\obj\Debug\calculadora.Resources.resources
+C:\Users\CARLOS\AppData\Local\Temporary Projects\calculadora\obj\Debug\calculadora.vbproj.GenerateResource.Cache
+C:\Users\CARLOS\AppData\Local\Temporary Projects\calculadora\obj\Debug\calculadora.exe
+C:\Users\CARLOS\AppData\Local\Temporary Projects\calculadora\obj\Debug\calculadora.xml
+C:\Users\CARLOS\AppData\Local\Temporary Projects\calculadora\obj\Debug\calculadora.pdb
+C:\ARCHIVOS\SisIestpCh\calculadora\calculadora\bin\Debug\calculadora.exe.config
+C:\ARCHIVOS\SisIestpCh\calculadora\calculadora\obj\Debug\calculadora.exe
+C:\ARCHIVOS\SisIestpCh\calculadora\calculadora\obj\Debug\calculadora.xml
+C:\ARCHIVOS\SisIestpCh\calculadora\calculadora\obj\Debug\calculadora.pdb
+C:\ARCHIVOS\SisIestpCh\calculadora\calculadora\bin\Debug\calculadora.exe
+C:\ARCHIVOS\SisIestpCh\calculadora\calculadora\bin\Debug\calculadora.pdb
+C:\ARCHIVOS\SisIestpCh\calculadora\calculadora\bin\Debug\calculadora.xml
+C:\ARCHIVOS\SisIestpCh\calculadora\calculadora\obj\Debug\calculadora.Form1.resources
+C:\ARCHIVOS\SisIestpCh\calculadora\calculadora\obj\Debug\calculadora.Resources.resources
+C:\ARCHIVOS\SisIestpCh\calculadora\calculadora\obj\Debug\calculadora.vbproj.GenerateResource.Cache
+C:\Users\Oriana\Desktop\calculadora\calculadora\bin\Debug\calculadora.exe.config
+C:\Users\Oriana\Desktop\calculadora\calculadora\obj\Debug\calculadora.exe
+C:\Users\Oriana\Desktop\calculadora\calculadora\obj\Debug\calculadora.xml
+C:\Users\Oriana\Desktop\calculadora\calculadora\obj\Debug\calculadora.pdb
+C:\Users\Oriana\Desktop\calculadora\calculadora\bin\Debug\calculadora.exe
+C:\Users\Oriana\Desktop\calculadora\calculadora\bin\Debug\calculadora.pdb
+C:\Users\Oriana\Desktop\calculadora\calculadora\bin\Debug\calculadora.xml
+C:\Users\Oriana\Desktop\calculadora\calculadora\obj\Debug\calculadora.Form1.resources
+C:\Users\Oriana\Desktop\calculadora\calculadora\obj\Debug\calculadora.Resources.resources
+C:\Users\Oriana\Desktop\calculadora\calculadora\obj\Debug\calculadora.vbproj.GenerateResource.Cache
